@@ -83,7 +83,7 @@ Everyone
 4. Upload icon (512×512), feature graphic (1024×500), 8 screenshots
 5. Fill Data Safety form using the section above
 6. Complete content rating questionnaire (expect: Everyone)
-7. Privacy policy URL — ✅ already hosted, paste: https://aqeeldecodes.github.io/toolhub-privacy/privacy-policy.html
+7. Privacy policy URL — ✅ already hosted, paste: https://telegra.ph/ToolHub--Privacy-Policy-10-13
 8. Create in-app product: remove_ads (one-time purchase)
 9. ✅ DONE in v1.2.1 — real AdMob IDs (App, Banner, Interstitial) are in the source and verified in the shipped APK; no test IDs remain
 10. Closed testing track if the account is newer than Nov 2023 (12 testers / 14 days rule)
